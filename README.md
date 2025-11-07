@@ -32,7 +32,7 @@ An AI-powered travel expense planner built with Streamlit that predicts trip cos
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/yourusername/smart-travel-planner.git
-cd smart-travel-planner
+cd smart_travel
 ```
 
 2. **Install dependencies**:
